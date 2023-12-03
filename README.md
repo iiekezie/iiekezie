@@ -5,11 +5,6 @@
 - #### 🔭 I’m currently working on my coding skills.
 - #### 👯 I’m open to collaborate on Software Engineering projects.
 
-# Contact 
-* [LinkedIn](nkedin.com/in/ifeanyi-ekezie-b81a8ab0/)
-* [Twitter](https://twitter.com/iiekezie)
-* [Email](iiekezie@gmail.com)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iiekezie&layout=compact)](https://github.com/iiekezie/github-readme-stats)
 
 ## QUESTION AND ANSWER WEBSITE
