@@ -28,12 +28,13 @@
   *Credential ID:* `WLADDXALMNKK`  
   *Skills:* Data Analysis, Spreadsheets, SQL, R Programming, Data Visualization, Problem Solving
 
-  - 🎓 **Professional Foundations** — *ALX Africa*, Sept 2025  
-  *Skills:* Networking & Relationship-Building, Presentation & Public Speaking, Workplace Etiquette & Professionalism, Teamwork & Collaboration, Communication Skills (verbal, written, and non-verbal), Time Management & Prioritization, Emotional Intelligence (EQ), Negotiation Skills, Decision-Making, Professional Ethics & Integrity
+- 🎓 **Professional Foundations** — *ALX Africa*, Sept 2025  
+  *Skills:* Networking & Relationship-Building, Presentation & Public Speaking, Workplace Etiquette & Professionalism, Teamwork & Collaboration, Communication Skills
+  (verbal, written, and non-verbal), Time Management & Prioritization, Emotional Intelligence (EQ), Negotiation Skills, Decision-Making, Professional Ethics & Integrity
   
 - ALX Software Engineering Program — 2024
-- ALX Cybersecurity Program (In Progress)
 - AZ-900: Microsoft Azure Fundamentals — 2025
+- ALX Cybersecurity Program (In Progress)
 
 ---
 
