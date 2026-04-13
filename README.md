@@ -15,27 +15,39 @@
 
 ---
 
+
+---
+
 ### 🏆 Licenses & Certifications
 
-- 🎓 **Career Essentials in Generative AI** — *Microsoft & LinkedIn*, Jul 2025  
-  *Skills:* Prompt Engineering, Generative AI, Responsible AI, Microsoft Copilot, AI for Business
+* 🎓 **Career Essentials in Generative AI** — *Microsoft & LinkedIn*, Jul 2025
+  *Skills:* Prompt Engineering, Generative AI, Responsible AI, Microsoft Copilot, AI for Business, AI Productivity Tools
 
-- 🧰 **Google IT Support Certificate** — *Coursera*, Sep 2023  
-  *Credential ID:* `IHoAUjiJ`  
-  *Skills:* Network Administration, Troubleshooting, Help Desk Support, OS, Online Support, Software & Hardware Support
+* ☁️ **Cloud Computing Certification** — *3MTT Nigeria*, Dec 2025
+  *Skills:* Microsoft Azure, Cloud Infrastructure, Virtual Machines, Resource Groups, Cloud Security Basics, Deployment & Monitoring
 
-- 📊 **Google Data Analytics Certificate** — *Coursera*, Aug 2023  
-  *Credential ID:* `WLADDXALMNKK`  
-  *Skills:* Data Analysis, Spreadsheets, SQL, R Programming, Data Visualization, Problem Solving
+* 🧰 **Google IT Support Professional Certificate** — *Coursera*, Sep 2023
+  *Credential ID:* `IHoAUjiJ`
+  *Skills:* Network Administration, Troubleshooting, Help Desk Support, Windows/Linux OS, System Administration, Hardware Maintenance, Software Installation
 
-- 🎓 **Professional Foundations** — *ALX Africa*, Sept 2025  
-  *Skills:* Networking & Relationship-Building, Presentation & Public Speaking, Workplace Etiquette & Professionalism, Teamwork & Collaboration, Communication Skills
-  (verbal, written, and non-verbal), Time Management & Prioritization, Emotional Intelligence (EQ), Negotiation Skills, Decision-Making, Professional Ethics & Integrity
-  
-- ALX Software Engineering Program — 2024
-- AZ-900: Microsoft Azure Fundamentals — 2025
-- ALX Cybersecurity Program (In Progress)
+* 📊 **Google Data Analytics Professional Certificate** — *Coursera*, Aug 2023
+  *Credential ID:* `WLADDXALMNKK`
+  *Skills:* Data Analysis, SQL, R Programming, Data Visualization, Spreadsheets (Excel/Google Sheets), Data Cleaning, Problem Solving
 
+* 🌐 **Cisco Certified Network Professional (CCNP)** — Feb 2026
+  *Skills:* Advanced Networking, Routing & Switching, Network Security, Enterprise Networking, Troubleshooting Complex Networks
+
+* 🔐 **Cybersecurity Program** — *ALX Africa*, Jan 2026
+  *Skills:* Network Security, Threat Analysis, Vulnerability Assessment, Risk Management, Security Best Practices, Incident Response
+
+* 💻 **Software Development Program** — *Power Learn Project*, Jul 2025
+  *Skills:* Programming (Python, JavaScript), Web Development, APIs, Git Version Control, Software Development Lifecycle (SDLC)
+
+* 🎓 **Professional Foundations Certificate** — *ALX Africa*, Sep 2025
+  *Skills:* Communication (Verbal & Written), Team Collaboration, Emotional Intelligence, Time Management, Leadership, Workplace Ethics
+
+* 🚀 **Founder Academy** — *ALX Africa*, Jan 2026
+  *Skills:* Entrepreneurship, Business Strategy, Product Development, Startup Operations, Market Research, Leadership
 ---
 
 ### 🛠 Skills & Tools
