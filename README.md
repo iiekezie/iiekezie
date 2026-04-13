@@ -15,9 +15,6 @@
 
 ---
 
-
----
-
 ### 🏆 Licenses & Certifications
 
 * 🎓 **Career Essentials in Generative AI** — *Microsoft & LinkedIn*, Jul 2025
