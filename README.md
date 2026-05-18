@@ -2,7 +2,7 @@
 
 # 👨‍💻 Ifeanyi Ekezie
 
-### Software Engineer | Cybersecurity Student @ ALX | I Learn by Doing
+### Software Engineer | Cybersecurity | Systems Administrator | Technical Support Engineer |IT Operations Engineer | Cloud Support Engineer  | I Learn by Doing
 
 ---
 
