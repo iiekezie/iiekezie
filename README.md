@@ -8,7 +8,7 @@
 
 - ✅ Completed **Software Engineering** at **ALX**
 - ✅ Completed **Microsoft Azure Fundamentals** at **3MTT Academy |  Darey.io**
-- 🔐 Currently studying **Cybersecurity** at **ALX**
+- 🔐 Completed **Cybersecurity** at **ALX**
 - 💻 Passionate about **Backend Engineering**, **Cloud Security**, and **DevSecOps**
 - 🤝 Open to collaborate on **real-world tech projects** and **community initiatives**
 - 🚀 Constantly learning by building and breaking things securely
