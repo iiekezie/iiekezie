@@ -11,10 +11,9 @@
 
 ---
 
-### 🖥️ `system_status.sh`
 
 ```bash
-iiekezie@mainframe:~$ cat current_operations.txt
+
 
 [+] 🔭 Working on:   Backend development with Go (Golang)
 [+] ☁️ Learning:     Cloud computing and DevOps (Microsoft Azure)
