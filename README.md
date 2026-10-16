@@ -7,24 +7,51 @@
   ╚═╝╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝
 -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&random=false&width=435&lines=Hey!+You+are+welcome+to+my+Profile;My+name+is+Ifeanyi+Ekezie;I+am+passionate+about+Technology;I+learn+by+Doing" alt="Typing SVG" />
-</p>
+```markdown
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Online-00FF41?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Role-Software_Engineer-00F3FF?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security-Cybersecurity-FF003C?style=for-the-badge&logo=cyberdefenders&logoColor=white" />
-</p>
+<!-- Animated Typing Header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi,+I'm+Ifeanyi+Ekezie+👋;Go+Developer;Cloud+Computing+%2B+DevOps;Cybersecurity+Enthusiast;Access+Granted...)](https://git.io/typing-svg)
+
+<br>
+
+**`💻 I build software and solve real-world technology problems.`**
+
+</div>
 
 ---
 
-### 💻 `whoami`
+### 🖥️ `system_status.sh`
 
 ```bash
-$ cat ~/about_me.txt
-> Name: Ifeanyi Ekezie
-> Title: Software Engineer | Cybersecurity | Systems Administrator 
->        Technical Support | IT Operations | Cloud Support Engineer
-> Motto: "I Learn by Doing"
-> Location: Earth, Sol System
+iiekezie@mainframe:~$ cat current_operations.txt
+
+[+] 🔭 Working on:   Backend development with Go (Golang)
+[+] ☁️ Learning:     Cloud computing and DevOps (Microsoft Azure)
+[+] 🔐 Interested:   Cybersecurity and Cloud Security architecture
+[+] 🛠️ Experience:   System administration and enterprise IT support
+[+] 🤝 Status:       Open to collaborating on interesting projects
+[+] 🌱 Philosophy:   "I learn by doing!"
+
+```
+
+---
+
+### ⚙️ `tech_arsenal.json`
+
+---
+
+### 📂 `executed_payloads/`
+
+| Project | Description | Link |
+| --- | --- | --- |
+| **`[lagcleanbot]`** | Automated environmental waste reporting system. | [Execute Link](https://github.com/iiekezie/lagcleanbot) |
+| **`[my_pocket_wallet]`** | Mobile banking application and digital wallet. | [Execute Link](https://github.com/iiekezie/my_pocket_wallet) |
+
+---
+
+### 📊 `user_telemetry`
+
+---
+
+### 📡 `establish_connection`
