@@ -1,100 +1,79 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3880F7&random=false&width=435&lines=Hey!+You+are+welcome+to+my+Profile;My+name+is+Ifeanyi+Ekezie;I+am+passionate+about+Technology;I+learn+by+Doing)](https://git.io/typing-svg)
+<div align="center">
 
-# 👨‍💻 Ifeanyi Ekezie
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=35F2A1&center=true&vCenter=true&width=650&lines=%24+whoami;Ifeanyi+Ekezie;Go+Backend+Developer;Cloud+%7C+Cybersecurity+%7C+Systems;I+learn+by+doing." alt="Typing intro" />
 
-### Software Engineer | Cybersecurity | Systems Administrator | Technical Support Engineer |IT Operations Engineer | Cloud Support Engineer  | I Learn by Doing
+# <code>Ifeanyi Ekezie</code>
 
----
+### `Go Backend Developer` · `Cloud Computing` · `Cybersecurity` · `IT Operations`
 
-- ✅ Completed **Software Engineering** at **ALX**
-- ✅ Completed **Microsoft Azure Fundamentals** at **3MTT Academy |  Darey.io**
-- 🔐 Completed **Cybersecurity** at **ALX**
-- 💻 Passionate about **Backend Engineering**, **Cloud Security**, and **DevSecOps**
-- 🤝 Open to collaborate on **real-world tech projects** and **community initiatives**
-- 🚀 Constantly learning by building and breaking things securely
+[![GitHub](https://img.shields.io/badge/GitHub-iiekezie-0d1117?style=for-the-badge&logo=github)](https://github.com/iiekezie)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/iiekezie)
+[![X](https://img.shields.io/badge/X-Follow-0d1117?style=for-the-badge&logo=x)](https://x.com/iiekezie)
 
----
+`SYSTEM STATUS:` 🟢 ONLINE &nbsp; `MODE:` ALWAYS LEARNING
 
-### 🏆 Licenses & Certifications
-
-* 🎓 **Career Essentials in Generative AI** — *Microsoft & LinkedIn*, Jul 2025
-  *Skills:* Prompt Engineering, Generative AI, Responsible AI, Microsoft Copilot, AI for Business, AI Productivity Tools
-
-* ☁️ **Cloud Computing Certification** — *3MTT Nigeria*, Dec 2025
-  *Skills:* Microsoft Azure, Cloud Infrastructure, Virtual Machines, Resource Groups, Cloud Security Basics, Deployment & Monitoring
-
-* 🧰 **Google IT Support Professional Certificate** — *Coursera*, Sep 2023
-  *Credential ID:* `IHoAUjiJ`
-  *Skills:* Network Administration, Troubleshooting, Help Desk Support, Windows/Linux OS, System Administration, Hardware Maintenance, Software Installation
-
-* 📊 **Google Data Analytics Professional Certificate** — *Coursera*, Aug 2023
-  *Credential ID:* `WLADDXALMNKK`
-  *Skills:* Data Analysis, SQL, R Programming, Data Visualization, Spreadsheets (Excel/Google Sheets), Data Cleaning, Problem Solving
-
-* 🌐 **Cisco Certified Network Professional (CCNP)** — Feb 2026
-  *Skills:* Advanced Networking, Routing & Switching, Network Security, Enterprise Networking, Troubleshooting Complex Networks
-
-* 🔐 **Cybersecurity Program** — *ALX Africa*, Jan 2026
-  *Skills:* Network Security, Threat Analysis, Vulnerability Assessment, Risk Management, Security Best Practices, Incident Response
-
-* 💻 **Software Development Program** — *Power Learn Project*, Jul 2025
-  *Skills:* Programming (Python, JavaScript), Web Development, APIs, Git Version Control, Software Development Lifecycle (SDLC)
-
-* 🎓 **Professional Foundations Certificate** — *ALX Africa*, Sep 2025
-  *Skills:* Communication (Verbal & Written), Team Collaboration, Emotional Intelligence, Time Management, Leadership, Workplace Ethics
-
-* 🚀 **Founder Academy** — *ALX Africa*, Jan 2026
-  *Skills:* Entrepreneurship, Business Strategy, Product Development, Startup Operations, Market Research, Leadership
----
-
-### 🛠 Skills & Tools
-
-- **Languages:** Go (Golang), Python, JavaScript, Bash, SQL  
-- **Backend:** REST APIs, Microservices, Docker, Postgres, Redis  
-- **Cloud & DevOps:** Azure (AZ-900 in progress), GitHub Actions, ARM Templates  
-- **Cybersecurity:** Network Security, OS Hardening, Vulnerability Scanning (In Progress)
+</div>
 
 ---
 
-### 🚀 Featured Projects
+## `$ cat about.txt`
 
-- **🧠 LAGCleanBot** – AI-powered waste reporting platform (Azure + Python + NLP)
-- **🌐 Cleaning Business MVP** – Full-stack booking platform w/ payments (Next.js + Firebase)
-- **📊 Sentiment Analysis Dashboard** – Azure Cognitive Services + Python visualization
-- **🔐 Azure Resource Organizer** – Infrastructure-as-Code mini-project using ARM templates
+```text
+I build practical software, explore cloud infrastructure, and make
+technology work better — one project at a time.
+
+> Primary language: Go (Golang)
+> Interests: Backend engineering, cloud, cybersecurity, DevOps
+> Background: Systems administration, IT support, troubleshooting
+> Philosophy: I learn by doing.
+```
+
+## `$ ls ./toolkit`
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+## `$ ./run featured-projects`
+
+| Project | Description | Repository |
+|---|---|---|
+| 🧠 **LAGCleanBot** | Technology-driven waste reporting project | [View source ↗](https://github.com/iiekezie/lagcleanbot) |
+| 💳 **MyPocketWallet** | Mobile wallet application built with Flutter | [View source ↗](https://github.com/iiekezie/my_pocket_wallet) |
+| 🧪 **More experiments** | Backend, cloud, automation, and IT projects | [Explore GitHub ↗](https://github.com/iiekezie?tab=repositories) |
+
+## `$ ./status --github`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=iiekezie&show_icons=true&hide_border=true&bg_color=0d1117&title_color=35f2a1&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiekezie&layout=compact&hide_border=true&bg_color=0d1117&title_color=35f2a1&text_color=c9d1d9" alt="Top languages" />
+
+</div>
+
+## `$ connect --with-me`
+
+- **GitHub:** [github.com/iiekezie](https://github.com/iiekezie)
+- **LinkedIn:** [linkedin.com/in/iiekezie](https://linkedin.com/in/iiekezie)
+- **X:** [x.com/iiekezie](https://x.com/iiekezie)
+- **Medium:** [medium.com/@iiekezie](https://medium.com/@iiekezie)
 
 ---
 
-### 📊 GitHub Stats
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iiekezie&layout=compact&theme=github_dark)](https://github.com/iiekezie/github-readme-stats)
+```text
+$ echo "I learn by doing. Build. Test. Improve. Repeat."
+I learn by doing. Build. Test. Improve. Repeat.
+```
 
----
+<sub>Code + Security + Cloud = A Better Tomorrow</sub>
 
-### 🌍 Find Me Online
-
-- 💼 [LinkedIn](https://linkedin.com/in/iiekezie)
-- 🧑‍💻 [GitHub](https://github.com/iiekezie)
-- 📝 [Medium](https://medium.com/@iiekezie)
-- 📸 [Instagram](https://instagram.com/iiekezie)
-- 🐦 [X (Twitter)](https://x.com/iiekezie)
-
----
-
-### 💬 Developer & Security Q&A Resources
-
-- [Stack Overflow](https://stackoverflow.com/)
-- [GitHub Discussions](https://github.com/)
-- [Stack Exchange](https://stackexchange.com/)
-- [CodeProject](https://codeproject.com/)
-- [Programmers Heaven](https://programmersheaven.com/)
-- [Reddit: r/programming](https://reddit.com/r/programming/)
-- [Quora](https://quora.com/)
-
----
-
-### ☕ Support My Work
-
-<a href="https://www.buymeacoffee.com/iiekezie">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" />
-</a>
+</div>
