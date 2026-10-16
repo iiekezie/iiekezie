@@ -1,13 +1,3 @@
-<!-- 
-  ██╗███╗   ██╗███████╗████████╗ █████╗ ██╗     ██╗     ███████╗██████╗ 
-  ██║████╗  ██║██╔════╝╚══██╔══╝██╔══██╗██║     ██║     ██╔════╝██╔══██╗
-  ██║██╔██╗ ██║███████╗   ██║   ███████║██║     ██║     █████╗  ██████╔╝
-  ██║██║╚██╗██║╚════██║   ██║   ██╔══██║██║     ██║     ██╔══╝  ██╔══██╗
-  ██║██║ ╚████║███████║   ██║   ██║  ██║███████╗███████╗███████╗██║  ██║
-  ╚═╝╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝
--->
-
-```markdown
 <div align="center">
 
 <!-- Animated Typing Header -->
@@ -34,24 +24,4 @@ iiekezie@mainframe:~$ cat current_operations.txt
 [+] 🌱 Philosophy:   "I learn by doing!"
 
 ```
-
----
-
-### ⚙️ `tech_arsenal.json`
-
----
-
-### 📂 `executed_payloads/`
-
-| Project | Description | Link |
-| --- | --- | --- |
-| **`[lagcleanbot]`** | Automated environmental waste reporting system. | [Execute Link](https://github.com/iiekezie/lagcleanbot) |
-| **`[my_pocket_wallet]`** | Mobile banking application and digital wallet. | [Execute Link](https://github.com/iiekezie/my_pocket_wallet) |
-
----
-
-### 📊 `user_telemetry`
-
----
-
 ### 📡 `establish_connection`
